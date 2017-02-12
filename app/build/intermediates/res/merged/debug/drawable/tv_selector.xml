@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- android:state_focused 获取到焦点用到遥控器 -->
+    <item android:drawable="@drawable/screen_background_focused" android:state_focused="true"></item>
+    <item android:drawable="@drawable/screen_background_focused" android:state_pressed="true"></item>
+    <item android:drawable="@android:color/transparent"></item>
+
+</selector>

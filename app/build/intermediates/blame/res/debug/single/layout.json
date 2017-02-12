@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firewall.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_firewall.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lockpattern.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_lockpattern.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_address.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\toast_address.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_lock.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_style.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_style.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_divider.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_divider.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\custom_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_pwd.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_set_pwd.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_material_settings_base.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_material_settings_base.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_manager.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_app_manager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_viewpager.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_viewpager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_blackcontact.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_list_blackcontact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_checkbox.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_tab.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\action_item_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_headview.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_headview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\home_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_virus.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_virus.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_click.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\view_setting_click.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firewall_black.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\fragment_firewall_black.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_clean_cache.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_clean_cache.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\layout_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_traffic.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_traffic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock_fragment.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_unlock_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_password.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\dialog_set_password.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup5.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setup5.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_item.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\view_setting_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input_password.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\dialog_input_password.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_traffic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_main.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\layout_home.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antiviruse.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_antiviruse.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blacknumber.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\dialog_add_blacknumber.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_fragment.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_lock_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_switcher.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_switcher.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drag_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_drag_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_menu.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\header_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_clean.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_callsms.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_des_view.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\progress_des_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tools.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\item_tools.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\layout\\recyclerview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="marked" format="boolean" />
+    <attr name="autocheck" format="boolean" />
+    <attr name="msItem" format="reference" />
+    <attr name="msTextStyle" format="reference" />
+    <attr name="msSubTextStyle" format="reference" />
+    <attr name="msToolbarTheme" format="reference" />
+    <attr name="msToolbarThemePopup" format="reference" />
+    <attr name="msWindowBg" format="reference" />
+    <attr name="msColorPrimary" format="reference" />
+    <attr name="msColorPrimaryDark" format="reference" />
+    <attr name="msColorAccent" format="reference" />
+    <attr name="msColorTextTitle" format="reference" />
+    <attr name="msColorTextSubTitle" format="reference" />
+    <attr name="msColorHeader" format="reference" />
+    <attr name="msDivider" format="reference" />
+    <attr name="msHeaderStyle" format="reference" />
+
+    <declare-styleable name="CheckableLinearLayout">
+        <attr name="marked" />
+        <attr name="autocheck" />
+    </declare-styleable>
+    
+     <declare-styleable name="DirectionalViewpager">
+        <attr name="android:orientation"/>
+    </declare-styleable>
+    
+     <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SettingItemView">
+        <attr name="mtitle" format="string" />
+        <attr name="desc_on" format="string" />
+        <attr name="desc_off" format="string" />
+    </declare-styleable>
+
+    <attr name="borderRadius" format="dimension" />
+    <attr name="type">
+        <enum name="circle" value="0" />
+        <enum name="round" value="1" />
+    </attr>
+
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" />
+        <attr name="type" />
+    </declare-styleable>
+
+    <attr name="progressBarStyleHorizontal" format="reference" />
+
+    <declare-styleable name="ShimmerView">
+        <attr name="reflectionColor" format="color" />
+    </declare-styleable>
+    
+    <declare-styleable name="CircleProgress">
+        <attr name="circle_progress" format="integer" />
+        <attr name="circle_max" format="integer" />
+        <attr name="circle_unfinished_color" format="color" />
+        <attr name="circle_finished_color" format="color" />
+        <attr name="circle_text_size" format="dimension" />
+        <attr name="circle_text_color" format="color" />
+        <attr name="circle_prefix_text" format="string" />
+        <attr name="circle_suffix_text" format="string" />
+    </declare-styleable>
+    
+    <declare-styleable name="DonutProgress">
+        <attr name="donut_progress" format="integer" />
+        <attr name="donut_max" format="integer" />
+        <attr name="donut_unfinished_color" format="color" />
+        <attr name="donut_finished_color" format="color" />
+        <attr name="donut_finished_stroke_width" format="dimension" />
+        <attr name="donut_unfinished_stroke_width" format="dimension" />
+        <attr name="donut_text_size" format="dimension" />
+        <attr name="donut_text_color" format="color" />
+        <attr name="donut_prefix_text" format="string" />
+        <attr name="donut_suffix_text" format="string" />
+        <attr name="donut_text" format="string" />
+        <attr name="donut_background_color" format="color" />
+        <attr name="donut_inner_bottom_text" format="string" />
+        <attr name="donut_inner_bottom_text_size" format="dimension" />
+        <attr name="donut_inner_bottom_text_color" format="color" />
+        <attr name="donut_circle_starting_degree" format="integer" />
+    </declare-styleable>
+    
+    <declare-styleable name="ArcProgress">
+        <attr name="arc_progress" format="integer" />
+        <attr name="arc_angle" format="float" />
+        <attr name="arc_stroke_width" format="dimension" />
+        <attr name="arc_max" format="integer" />
+        <attr name="arc_unfinished_color" format="color" />
+        <attr name="arc_finished_color" format="color" />
+        <attr name="arc_text_size" format="dimension" />
+        <attr name="arc_text_color" format="color" />
+        <attr name="arc_suffix_text" format="string" />
+        <attr name="arc_suffix_text_size" format="dimension" />
+        <attr name="arc_suffix_text_padding" format="dimension" />
+        <attr name="arc_bottom_text" format="string" />
+        <attr name="arc_bottom_text_size" format="dimension" />
+    </declare-styleable>
+    
+    <declare-styleable name="Themes">
+        <attr name="circleProgressStyle" format="reference" />
+        <attr name="donutProgressStyle" format="reference" />
+        <attr name="arcProgressStyle" format="reference" />
+    </declare-styleable>
+    
+    <declare-styleable name="ToggleButton">
+        <attr name="SwitchBtnBackgroud" format="reference" />
+        <attr name="SlidBtnBackgroud" format="reference" />
+        <attr name="CurrentState" format="boolean" />
+    </declare-styleable>
+    
+    <declare-styleable name="LockPatternView">
+        <attr name="aspect" format="string" />
+        <attr name="pathColor" format="color|reference" />
+        <attr name="regularColor" format="color|reference" />
+        <attr name="errorColor" format="color|reference" />
+        <attr name="successColor" format="color|reference" />
+    </declare-styleable>
+
+</resources>

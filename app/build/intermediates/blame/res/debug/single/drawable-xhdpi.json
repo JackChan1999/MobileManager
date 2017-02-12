@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\code_lock_top.9.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\drawable-xhdpi\\code_lock_top.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_black_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_open_black_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_open_black_24dp.png"
+    }
+]

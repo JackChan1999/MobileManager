@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\spot_mask.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\spot_mask.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_loading0.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\app_loading0.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_delete.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scan_bg.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\scan_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_white_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\app.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_settings.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\contact1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\contact1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_icon_36.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg4.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg4.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\atools.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\atools.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_code_lock_drag_direction_red_up.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\indicator_code_lock_drag_direction_red_up.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_left_normal.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_check_on.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_open_white_36dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\jiantou1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\jiantou1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\mi.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\mi.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\progress_animation_1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\progress_animation_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_lock_big.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_lock_big.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_middle_select.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_middle_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_store.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\app_store.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scan_1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\scan_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_scanner_malware.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\phone.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\widget_bg_portrait_child_divider.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_phone_focused.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_phone_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_clean_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_clean_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\perm_group_accounts.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\perm_group_accounts.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\contact.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\contact.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_black_focused.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_black_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wallet_base_btn_default_off.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\wallet_base_btn_default_off.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_menu_btn_add.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_menu_btn_add.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\callmsgsafe.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\settings.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sym_action_add.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\sym_action_add.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_white_36dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_white_36dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\listview_divider.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_check_yuantu_n.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_check_yuantu_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_menu_help.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg6.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg6.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg7.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg7.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img4.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\img4.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_icon_mine_n.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg_icon_mine_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_dailog_choose_s.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_dailog_choose_s.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\previous.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\previous.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_apps.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\progress_animation_3.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\progress_animation_3.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\contact2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\contact2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\app_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\empty.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\empty.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_normal.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\button_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_rating_star_on_normal_holo_dark.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_rating_star_on_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\act_scanning_03.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_code_lock_point_area_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\indicator_code_lock_point_area_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_trojan.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\progress_loading_image_02.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\progress_loading_image_02.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\number_operator.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\number_operator.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_right_select.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_right_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading3.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading3.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\next.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\next.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading6.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading6.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_radio_on_holo_dark.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_code_lock_drag_direction_green_up.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\indicator_code_lock_drag_direction_green_up.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_left_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_sms.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_sms.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\unlock.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\unlock.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\button_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\netmanager.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\netmanager.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\keyboard_icon_delete_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\keyboard_icon_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_left_select.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_left_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\img1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scan.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\scan.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_sysoptimize.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading5.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading5.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_devider.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_devider.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_middle_normal.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_middle_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sysoptimize.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\sysoptimize.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_dailog_choose_n.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_dailog_choose_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\security_progress.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_switch_open.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg_switch_open.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scan_line.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_switch_close.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg_switch_close.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading7.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading7.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\img2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading4.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading4.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_3.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_3.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\keyboard_icon_delete.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\keyboard_icon_delete.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\jiantou1_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_add_n.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_add_n.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_depot.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_depot.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_code_lock_point_area_green.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\indicator_code_lock_point_area_green.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gwf.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gwf.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_black_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bind.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bind.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_unlock_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_unlock_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_open_black_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_open_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\arrow_white_left.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\arrow_white_left.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_right_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_delete_btn.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_safe.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_lock_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_lock_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\taskmanager.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_help.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_help.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_check_off.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_clean_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_clean_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_black.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_black.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_callmsgsafe.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_netmanager.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_unlock_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_unlock_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon_2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_taskmanager.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\progress_loading_image_01.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\progress_loading_image_01.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_code_lock_point_area_red.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\indicator_code_lock_point_area_red.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_code_lock_touched.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_code_lock_touched.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_clear_search_api_holo_light.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\safe.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\safe.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg5.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg5.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gwe.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\gwe.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_menu_import_export.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_menu_import_export.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scan2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\scan2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_right_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\list_button_lock_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\list_button_lock_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_left_pressed.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\smile.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\smile.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\tab_right_normal.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\home_tools.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\progress_animation_2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\progress_animation_2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\trojan.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\trojan.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_delete_btn_focused.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_loading1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\app_loading1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\setup1.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\setup1.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sms.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\sms.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_open_white_24dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_open_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_phone.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_phone.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\main_icon.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\background.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\btn_code_lock_default.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\btn_code_lock_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_open_black_36dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_open_black_36dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_lock_black_36dp.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_lock_black_36dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_btn_next.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_btn_next.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wallet_base_btn_pressed_on.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\wallet_base_btn_pressed_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\firewall_tab_icon_sms_focused.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\firewall_tab_icon_sms_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\img3.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\img3.png"
+    }
+]

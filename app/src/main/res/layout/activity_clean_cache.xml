@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        style="@style/TitleStyle"
+        android:text="缓存清理"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <RelativeLayout
+            android:id="@id/rl_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#4A86CE">
+
+            <RelativeLayout
+                android:id="@id/rl_scan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="@mipmap/scan_bg">
+
+                <ImageView
+                    android:id="@id/iv_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:src="@mipmap/ic_launcher"/>
+
+                <ImageView
+                    android:id="@id/scan_line"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/iv_icon"
+                    android:src="@mipmap/scan"/>
+            </RelativeLayout>
+
+            <ProgressBar
+                android:id="@id/pb"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/rl_scan"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@id/rl_scan"
+                android:progressDrawable="@drawable/progress"/>
+
+            <TextView
+                android:id="@id/tv_appname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/pb"
+                android:layout_below="@id/pb"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/rl_scan"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="应用的名字"
+                android:textColor="#fff"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:id="@id/tv_cachesize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/pb"
+                android:layout_below="@id/tv_appname"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/rl_scan"
+                android:text="缓存大小"
+                android:textColor="#fff"
+                android:textSize="16sp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@id/rl_result"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#4A86CE"
+            android:visibility="invisible">
+
+            <TextView
+                android:id="@id/tv_cache_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="总共有00个缓存文件,缓存大小000kb"
+                android:textColor="#fff"
+                android:textSize="15sp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignLeft="@id/tv_cache_count"
+                android:layout_alignRight="@id/tv_cache_count"
+                android:layout_below="@id/tv_cache_count"
+                android:gravity="center">
+
+                <Button
+                    android:id="@id/bt_scan"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_selector"
+                    android:text="重新扫描"
+                    android:textColor="#fff"
+                    android:textSize="16sp"/>
+
+                <Button
+                    android:id="@id/btn_cleanAll"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_selector"
+                    android:text="一键清理"
+                    android:textColor="#fff"
+                    android:textSize="16sp"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+    <ListView
+        android:id="@id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+
+</LinearLayout>

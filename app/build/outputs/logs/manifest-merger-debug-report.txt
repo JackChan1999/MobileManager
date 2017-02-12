@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:1:1-166:12
+	package
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:1:11-42
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.READ_SMS
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:27:5-29:46
+	tools:ignore
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:28:9-62
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:32:22-85
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:33:22-76
+application
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:35:5-164:19
+MERGED from [com.android.support:design:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:38:9-38
+	android:theme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:40:9-40
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:36:9-45
+activity#com.google.mobilesafe.ui.activity.WelcomeActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:41:9-50:20
+	android:screenOrientation
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:44:13-83
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:42:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:48:27-74
+activity#com.google.mobilesafe.ui.activity.HomeActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:51:19-59
+activity#com.google.mobilesafe.ui.activity.LostFindActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:53:19-63
+activity#com.google.mobilesafe.ui.activity.SettingActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:57:13-44
+	android:theme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:58:13-57
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:56:13-56
+activity#com.google.mobilesafe.ui.activity.Setup1Activity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:60:9-61:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:60:19-61
+activity#com.google.mobilesafe.ui.activity.Setup2Activity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:62:19-61
+activity#com.google.mobilesafe.ui.activity.Setup3Activity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:64:19-61
+activity#com.google.mobilesafe.ui.activity.Setup4Activity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:66:19-61
+activity#com.google.mobilesafe.ui.activity.ContactActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:windowSoftInputMode
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:69:19-61
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:68:19-62
+activity#com.google.mobilesafe.ui.activity.DragViewActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:72:19-63
+activity#com.google.mobilesafe.ui.activity.AppManagerActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:74:9-75:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:74:19-65
+activity#com.google.mobilesafe.ui.activity.TaskManagerActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:76:9-77:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:76:19-66
+activity#com.google.mobilesafe.ui.activity.AntivirusActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:78:9-79:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:78:19-64
+activity#com.google.mobilesafe.ui.activity.FirewallActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:theme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:82:13-57
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:81:13-57
+activity#com.google.mobilesafe.ui.activity.TrafficStatsActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:84:9-85:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:84:19-67
+activity#com.google.mobilesafe.ui.activity.CacheCleanActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:86:9-87:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:86:19-65
+activity#com.google.mobilesafe.ui.activity.EnterPwdActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:88:9-89:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:88:19-63
+activity#com.google.mobilesafe.ui.activity.AToolActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:90:9-91:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:90:19-60
+activity#com.google.mobilesafe.ui.activity.GuideActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:92:9-93:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:92:19-60
+activity#com.google.mobilesafe.ui.activity.AppLockActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:94:9-95:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:94:19-62
+activity#com.google.mobilesafe.ui.activity.LockPatternActivity
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:96:9-97:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:96:19-66
+receiver#com.google.mobilesafe.receiver.BootCompleteReceiver
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:100:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:101:13-103:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:102:17-78
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:102:25-76
+receiver#com.google.mobilesafe.receiver.SmsReceiver
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:105:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:106:13-108:29
+	android:priority
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:106:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:107:17-81
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:107:25-79
+receiver#com.google.mobilesafe.receiver.MyAppWidget
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:112:19-55
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:113:13-115:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:114:17-83
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:114:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:117:13-119:65
+	android:resource
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:119:17-63
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:118:17-58
+receiver#com.google.mobilesafe.receiver.killProcessAllReceiver
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:121:9-125:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:121:19-66
+intent-filter#com.qq.mobilesafe
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:122:13-124:29
+action#com.qq.mobilesafe
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:123:17-59
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:123:25-57
+service#com.google.mobilesafe.service.AddressService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:128:9-129:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:128:18-56
+service#com.google.mobilesafe.service.CallSmsSafeService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:130:9-131:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:130:18-60
+service#com.google.mobilesafe.service.killProcessService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:132:9-133:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:132:18-60
+service#com.google.mobilesafe.service.killProcessWidgetService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:134:9-135:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:134:18-66
+service#com.google.mobilesafe.service.WatchDogService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:136:9-137:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:136:18-57
+service#com.google.mobilesafe.service.LocationService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:138:9-139:19
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:138:18-57
+activity#net.youmi.android.AdBrowser
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:142:9-146:20
+	android:configChanges
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:144:13-83
+	android:theme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:145:13-66
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:143:13-55
+service#net.youmi.android.AdService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:148:9-151:19
+	android:exported
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:149:13-55
+service#net.youmi.android.ExpService
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:152:9-155:19
+	android:exported
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:154:13-37
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:153:13-56
+receiver#net.youmi.android.AdReceiver
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:157:9-163:20
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:157:19-62
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:158:13-162:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:159:17-77
+	android:name
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:159:25-75
+data
+ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:161:17-49
+	android:scheme
+		ADDED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml:161:23-47
+uses-sdk
+INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.2.1\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] E:\workspace\MobileSafe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\MobileSafe\app\src\main\AndroidManifest.xml

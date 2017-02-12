@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffeeeeee"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TitleStyle"
+            android:text="请输入隐私保护密码"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1"
+            android:src="@mipmap/icon_lock_big"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20.0dip">
+
+            <EditText
+                android:id="@id/et_pwd"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/shape_et_bg"
+                android:hint="输入密码"
+                android:paddingLeft="10dp"/>
+
+            <Button
+                android:id="@id/btn_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignRight="@id/et_pwd"
+                android:layout_alignTop="@id/et_pwd"
+                android:background="#4A86CE"
+                android:text="确定"
+                android:textColor="@color/white"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <android.support.v7.widget.GridLayout
+        android:id="@id/gridlayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ffccd3d6"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        app:columnCount="3"
+        app:orientation="horizontal"
+        app:rowCount="4"
+        >
+
+        <Button
+            android:id="@id/btn_1"
+            style="@style/button"
+            android:text="1"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_2"
+            style="@style/button"
+            android:text="2"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_3"
+            style="@style/button"
+            android:text="3"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_4"
+            style="@style/button"
+            android:text="4"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_5"
+            style="@style/button"
+            android:text="5"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_6"
+            style="@style/button"
+            android:text="6"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_7"
+            style="@style/button"
+            android:text="7"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_8"
+            style="@style/button"
+            android:text="8"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_9"
+            style="@style/button"
+            android:text="9"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_clear"
+            style="@style/button"
+            android:text="清空"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_0"
+            style="@style/button"
+            android:text="0"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+
+        <Button
+            android:id="@id/btn_delete"
+            style="@style/button"
+            android:text="删除"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"
+            />
+    </android.support.v7.widget.GridLayout>
+
+</LinearLayout>

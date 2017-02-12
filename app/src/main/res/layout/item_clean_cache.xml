@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@id/iv_icon"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_margin="10dp"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:id="@id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/iv_icon"
+        android:layout_toRightOf="@id/iv_icon"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="手机管家"
+        android:textColor="@color/color_text_1"
+        android:textSize="@dimen/textsize_16"/>
+
+    <TextView
+        android:id="@id/tv_cache_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iv_icon"
+        android:layout_toRightOf="@id/iv_icon"
+        android:text="缓存大小"
+        android:textColor="@color/color_text_2"
+        android:textSize="@dimen/textsize_14"/>
+
+    <ImageButton
+        android:id="@id/ib_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="@color/transparent"
+        android:src="@mipmap/list_button_clean_default"/>
+
+</RelativeLayout>

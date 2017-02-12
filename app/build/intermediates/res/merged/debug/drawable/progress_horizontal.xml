@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- layer-list 表示层级关系 -->
+    <!-- 背景 -->
+    <item android:id="@android:id/background">
+        <shape>
+
+            <!-- corners 边角 -->
+            <!-- <corners android:radius="5dip" /> -->
+            <!--
+ 梯度渐变色
+ android:angle="270" 角度逆时针旋转270 度
+            -->
+            <!-- <gradient -->
+            <!-- android:startColor="#ff9d9e9d" -->
+            <!-- android:centerColor="#ff5a5d5a" -->
+            <!-- android:centerY="0.75" -->
+            <!-- android:endColor="#ff747674" -->
+            <!-- android:angle="270" -->
+            <!-- /> -->
+            <!-- solid 固定色 -->
+            <solid android:color="#22000000" />
+        </shape>
+    </item>
+    <!-- 副进度条(第二进度条) -->
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+
+                <!-- <corners android:radius="5dip" /> -->
+
+
+                <!-- <gradient -->
+                <!-- android:startColor="#80ffd300" -->
+                <!-- android:centerColor="#80ffb600" -->
+                <!-- android:centerY="0.75" -->
+                <!-- android:endColor="#a0ffcb00" -->
+                <!-- android:angle="270" -->
+                <!-- /> -->
+                <solid android:color="#22ff0000" />
+            </shape>
+        </clip>
+    </item>
+    <!-- 主进度条 -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+
+                <!-- <corners android:radius="5dip" /> -->
+                <!-- <gradient -->
+                <!-- android:angle="270" -->
+                <!-- android:centerColor="#ffffb600" -->
+                <!-- android:centerY="0.75" -->
+                <!-- android:endColor="#ffffcb00" -->
+                <!-- android:startColor="#ffffd300" /> -->
+                <solid android:color="#55ff0000" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

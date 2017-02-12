@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusable="true"
+                android:focusableInTouchMode="true">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ms_gray5"
+        android:minHeight="?android:attr/actionBarSize">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="选择联系人"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_18"/>
+
+    </android.support.v7.widget.Toolbar>
+
+    <com.google.mobilesafe.ui.widget.SearchEditText
+        android:id="@id/et_search"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/toolbar"
+        android:layout_margin="10dp"
+        android:background="@drawable/shape_search"
+        android:drawableLeft="@mipmap/ic_search_api_holo_light"
+        android:drawablePadding="10dp"
+        android:hint="搜索联系人"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@color/color_text_1"
+        android:textSize="@dimen/textsize_16"/>
+
+    <!-- <ListView
+         android:id="@id/lv_contact"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_below="@id/et_search"
+         android:scrollbars="none"/>-->
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/et_search"/>
+
+    <com.google.mobilesafe.ui.widget.QuickIndexBar
+        android:id="@id/bar"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/et_search"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tv_center"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_index"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="32sp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

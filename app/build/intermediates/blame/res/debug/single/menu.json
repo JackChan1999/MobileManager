@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_setting.xml",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\menu\\menu_setting.xml"
+    }
+]

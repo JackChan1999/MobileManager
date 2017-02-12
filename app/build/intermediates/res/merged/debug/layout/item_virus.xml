@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     >
+    
+    <ImageView 
+        android:id="@id/iv_icon"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_margin="10dp"/>
+    <TextView 
+        android:id="@id/tv_appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_icon"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="手机管家"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"/>
+    
+     <TextView 
+        android:id="@id/tv_isVirus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_icon"
+        android:layout_below="@id/tv_appname"
+        android:layout_marginTop="5dp"
+        android:text="扫描安全"
+        android:textColor="#ff4e7f11"
+        android:textSize="16sp"/>
+    
+
+</RelativeLayout>

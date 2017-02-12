@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_api_holo_light.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\small_icon.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xhdpi\\small_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\titlebar_ic_back.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\titlebar_ic_back.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\entrance2.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\entrance2.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow_next_right_disable.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_next_right_disable.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow_next_right_normal.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_next_right_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\entrance_bottom_bg.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\entrance_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\entrance3.png",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\entrance3.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bg3.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg3.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\launcher_bg_2.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\launcher_bg_2.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\header.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\header.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\welcome_bg.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\welcome_bg.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\launcher_bg.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\launcher_bg.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\launcher_bg_1.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\launcher_bg_1.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\drag.bmp",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\drag.bmp"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bg1.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\MobileSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bg2.jpg",
+        "source": "E:\\workspace\\MobileSafe\\app\\src\\main\\res\\mipmap-hdpi\\bg2.jpg"
+    }
+]

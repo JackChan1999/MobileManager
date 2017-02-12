@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        app:cardElevation="1dp"
+        android:foreground="?android:attr/selectableItemBackground">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@id/iv_icon"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_margin="16dp"
+                android:src="@mipmap/ic_launcher"/>
+
+            <TextView
+                android:id="@id/tv_appname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/iv_icon"
+                android:layout_toRightOf="@id/iv_icon"
+                android:ellipsize="end"
+                android:ems="8"
+                android:singleLine="true"
+                android:text="应用商店"
+                android:textColor="#dd000000"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:id="@id/tv_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/iv_icon"
+                android:layout_alignLeft="@id/tv_appname"
+                android:text="上传：20M"
+                android:textColor="#8a000000"
+                android:textSize="14dp"/>
+
+            <TextView
+                android:id="@id/tv_load"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/iv_icon"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"
+                android:text="下载：25M"
+                android:textColor="#66000000"/>
+
+            <TextView
+                android:id="@id/tv_sum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/iv_icon"
+                android:layout_marginRight="20dp"
+                android:text="总流量50M"
+                android:textColor="@color/color_text_1"
+                android:textSize="@dimen/textsize_14"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

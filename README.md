@@ -1,5 +1,4 @@
-# Mobilesafe
-手机卫士
+# Mobilesafe手机卫士
 
 # 项目简介
 

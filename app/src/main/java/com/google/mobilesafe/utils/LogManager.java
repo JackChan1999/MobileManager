@@ -28,7 +28,7 @@ import java.text.SimpleDateFormat;
  * ============================================================
  **/
 public class LogManager {
-    private final String TAG = "LogManager";
+    private static final String TAG = "LogManager";
     private static SimpleDateFormat a = null;
     public static boolean debug = false;
     public static boolean writeFileLog = false;

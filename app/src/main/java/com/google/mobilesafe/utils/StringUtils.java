@@ -50,7 +50,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
  * ============================================================
  **/
 public class StringUtils {
-	private final String TAG = "StringUtils";
+	private static final String TAG = "StringUtils";
 	public final static String	UTF_8	= "utf-8";
 	public static final String MPLUG86 = "+86";
 	private static final String hex = "0123456789ABCDEF";

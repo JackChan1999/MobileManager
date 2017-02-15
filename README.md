@@ -15,11 +15,9 @@
 ## 项目分析
 手机安全卫士主要分为9个功能模块，其中包含手机防盗、通讯卫士、软件管家、手机杀毒、缓存清理、进程管理、流量统计、高级工具、设置中心，如图1-1所示。
 
-![](http://img.blog.csdn.net/20150830213447860?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+<img src="https://github.com/JackChen1999/Mobilesafe/blob/master/screenshots/%E6%89%8B%E6%9C%BA%E5%8D%AB%E5%A3%AB1.png" width="500"/>
 
 从上图可以看出，手机安全卫士主要分为两块，一个是欢迎界面，一个是主界面。在欢迎界面中会显示程序的版本号以及功能提示等，在主界面中显示9个功能模块，每个功能模块还有具体的小功能。
-
-![](https://github.com/JackChen1999/Mobilesafe/blob/master/screenshots/%E6%89%8B%E6%9C%BA%E5%8D%AB%E5%A3%AB1.png)
 
 ![](https://github.com/JackChen1999/Mobilesafe/blob/master/screenshots/%E6%89%8B%E6%9C%BA%E5%8D%AB%E5%A3%AB2.gif)
 

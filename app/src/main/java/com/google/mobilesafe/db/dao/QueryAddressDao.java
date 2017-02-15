@@ -3,7 +3,26 @@ package com.google.mobilesafe.db.dao;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：MobileSafe
+ * Package_Name：com.google.mobilesafe
+ * Version：1.0
+ * time：2016/2/15 22:32
+ * des ：手机卫士
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 public class QueryAddressDao {
 	// 注意,该路径必须是data/data目录的文件,否则数据库访问不到
 	// private static final String PATH =

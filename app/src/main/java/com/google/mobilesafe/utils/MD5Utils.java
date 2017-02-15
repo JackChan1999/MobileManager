@@ -11,20 +11,22 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * ============================================================
- * <p/>
- * 版 权 ： Google互联网有限公司版权所有 (c) 2016
- * <p/>
- * 作 者 : 陈冠杰
- * <p/>
- * 版 本 ： 1.0
- * <p/>
- * 创建日期 ： 2016-2-21 下午6:16:40
- * <p/>
- * 描 述 ：
- * md5工具类
- * <p/>
- * 修订历史 ：
- * <p/>
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：MobileSafe
+ * Package_Name：com.google.mobilesafe
+ * Version：1.0
+ * time：2016/2/15 22:32
+ * des ：手机卫士
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
  * ============================================================
  **/
 public class MD5Utils {
